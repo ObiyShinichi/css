@@ -1,4 +1,4 @@
-.judul-label{background-color:#E5ECF9;
+.judul-label{background-color:#30bead;
 font-weight:bold;
 line-height:1.4em;
 margin-bottom:5px;
@@ -9,7 +9,7 @@ margin: 0 2px;
 outline: none;
 cursor: pointer;
 text-decoration: none;
-font: 14px/100% Arial, Helvetica, sans-serif;
+font: 14px/100% Roboto, Helvetica, sans-serif;
 padding: .5em 2em .55em;
 text-shadow: 0 1px 1px rgba(0,0,0,.3);width:99%;
 margin:5px auto;
@@ -36,7 +36,7 @@ padding-left:15px;
 padding-right:5px;
 white-space:nowrap;
 text-align:left;
-font-family:"Arial",sans-serif;
+font-family:"Roboto",sans-serif;
 font-size:12px;
 }
 
@@ -48,7 +48,7 @@ background-color:#F6F6F6;
  color: #fef4e9;
  border: 2px solid white !important;
  background: #f78d1d;
- background: -webkit-gradient(linear, left top, left bottom, from(#0040FF), to(#0040FF));
+ background: -webkit-gradient(linear, left top, left bottom, from(#30bead), to(#30bead));
  background: -moz-linear-gradient(top,  #faa51a,  #f47a20);
  filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#faa51a', endColorstr='#f47a20');
 }
