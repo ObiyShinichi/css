@@ -37,7 +37,7 @@ hr.primary {
 }
 
 a {
-    color: #007FFF;
+    color: #008080;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -53,11 +53,11 @@ p {
     font-size: 17px;
     line-height: 1.7;
     margin-bottom: 20px;
-    font-family:'Helvetica Neue',Arial,sans-serif;
+    font-family:'Segoe UI',Arial,sans-serif;
 }
 
 .text-normal {
-    font-family:'Helvetica Neue',Arial,sans-serif;
+    font-family:'Segoe UI',Arial,sans-serif;
 }
 
 .wide-space {
