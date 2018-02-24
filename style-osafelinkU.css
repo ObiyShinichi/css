@@ -32,7 +32,7 @@ hr.light {
 }
 
 hr.primary {
-    border-color: #007FFF;
+    border-color: #008080;
     opacity: 1;
 }
 
@@ -70,7 +70,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #007FFF;
+    background-color: #008080;
 }
 
 .bg-alt {
@@ -95,7 +95,7 @@ p {
 }
 
 .text-primary {
-    color: #007FFF;
+    color: #008080;
 }
 
 section {
@@ -135,7 +135,7 @@ footer h4, footer h6 {
 
 .navbar-brand:hover,
 .navbar-brand:focus {
-    color: #007FFF;
+    color: #008080;
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
@@ -154,12 +154,12 @@ footer h4, footer h6 {
 
 .navbar-default .nav>li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: #007FFF;
+    color: #008080;
 }
 
 .navbar-default .nav .nav-link.active,
 .navbar-default .nav .nav-link.active:focus {
-    color: #007FFF !important;
+    color: #008080 !important;
     background-color: transparent;
 }
 
